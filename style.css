@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -11,14 +12,46 @@ body{
 h1{
     text-align: center;
     color: white;
-    font-size: 32px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-family: teko;
 }
 .text-center{
     color: white;
+    font-family: teko;
+    font-size: 40px;
+    padding: 10px;
 }
-.col{
+.col2{
     padding: 7px;
+    height: 60px;
+    font-size: 50px;
+}
+.col1{
+    height: 50px;
+}
+.col3{
+
+    height: 40px;
+}
+.col-12{
+    color: rgb(0, 0, 0);
+    font-family: teko;
+    font-size: 25px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.p-3{
+    border-radius: 15px;
+}
+a{
+    list-style: none;
+    color: white;
+    text-decoration-line: none;
+}
+a:hover{
+    
+    color: #5198D2;
+    
 }
 .form-control{
     margin: auto !important;
