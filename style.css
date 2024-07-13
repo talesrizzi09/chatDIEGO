@@ -2,6 +2,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 body{
     background-color: #232323;
@@ -59,4 +60,13 @@ a:hover{
 .row{
     width: 100%;
     margin-left: 0.2px;
+}
+.cadeado-desbloqueado{
+    width: 20px;   
+}
+.pessoas{
+    width: 20px;
+}
+.sair-chat{
+    margin-top: 100px;
 }
